@@ -1,0 +1,6 @@
+id|name|ability description
+1|Rafiki|invisibility
+2|Nala|Night Vision
+3|Sarabi|Energy Manipulation
+4|Zazu|Weather Control
+5|Sarafina|Super Speed

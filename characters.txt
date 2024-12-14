@@ -1,0 +1,7 @@
+name|age|militaryPower|rations|wisdom|simbaPoints
+Stalin|30|1200|300|300|20000
+Biden|80|800|600|700|20000
+Lego Darth Vader|27|900|400|200|20000
+Betty White|200|200|800|1000|20000
+Ian Comer(Before The Head Injuries)|18|1000|200|800|20000
+Star Platinum|3|1200|200|200|20000
