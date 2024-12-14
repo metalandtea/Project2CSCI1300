@@ -7,7 +7,7 @@ _______________________________________________
 
 
 _______________________________________________
-THIS IS HOW YOU COMPILE AND LIKE EVERYTHIN
+THIS IS HOW YOU COMPILE AND LINK EVERYTHING
 
 g++ Board.cpp player.cpp battles.cpp -o program.exe
 
